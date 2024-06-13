@@ -2,7 +2,7 @@
 
 This repository contains various Python projects that I have developed as part of my hands-on learning with Python. Each project demonstrates different aspects of Python programming and showcases my progress and understanding of various libraries and APIs.
 
-## 1. Robo Speaker - A simple Python application that converts text input from the user into verbal output.
+### 1. Robo Speaker - A simple Python application that converts text input from the user into verbal output.
 
 **Features:**
 - Takes text input from the user.
